@@ -1,0 +1,19 @@
+{
+  "name": "console-time-polyfill",
+  "version": "1.0.0",
+  "description": "A polyfill for console.time(). Uses performance.now API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinnewbold/Console-Time-Polyfill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinnewbold/Console-Time-Polyfill/issues"
+  },
+  "homepage": "https://github.com/dustinnewbold/Console-Time-Polyfill#readme"
+}
